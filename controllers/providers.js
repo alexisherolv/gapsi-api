@@ -54,7 +54,9 @@ async function deleteProvider(params){
 }
 
 //Insert Provider
-async function deleteProvider(params){
+async function insertProvider(params){
+
+    //Funcion incompleta por cuestiones de tiempo
     try{
         var indice = 0;
 
@@ -98,5 +100,6 @@ module.exports = {
     getProviders: getProviders,
     getPages: getPages,
     getProvidersByPagination, getProvidersByPagination,
-    deleteProvider: deleteProvider
+    deleteProvider: deleteProvider,
+    insertProvider : insertProvider
 }
