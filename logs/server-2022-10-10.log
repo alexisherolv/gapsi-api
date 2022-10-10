@@ -1,0 +1,164 @@
+2022-10-10T18:18:22.671Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:18:34.108Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:18:49.774Z [31merror[39m: 	404 || undefined - / - GET - ::1
+2022-10-10T18:18:49.775Z [31merror[39m: 	404 - undefined - Not Found - / - GET - ::1
+2022-10-10T18:18:53.451Z [32minfo[39m: 	welcome to GAPSI API
+2022-10-10T18:18:53.559Z [31merror[39m: 	404 || undefined - /favicon.ico - GET - ::1
+2022-10-10T18:18:53.559Z [31merror[39m: 	404 - undefined - Not Found - /favicon.ico - GET - ::1
+2022-10-10T18:22:43.090Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:22:50.233Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:23:39.229Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:23:52.287Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:24:02.174Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:24:35.957Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:24:46.512Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:30:37.678Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:33:26.930Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:34:23.270Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:34:26.497Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:34:37.717Z [31merror[39m: 	404 || undefined - /api/version - GET - ::1
+2022-10-10T18:34:37.718Z [31merror[39m: 	404 - undefined - Not Found - /api/version - GET - ::1
+2022-10-10T18:35:06.040Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:35:06.538Z [31merror[39m: 	500 - undefined - params is not defined - /api/version - GET - ::1
+2022-10-10T18:35:08.011Z [31merror[39m: 	500 - undefined - params is not defined - /api/version - GET - ::1
+2022-10-10T18:35:17.247Z [31merror[39m: 	500 - undefined - params is not defined - /api/version - GET - ::1
+2022-10-10T18:35:28.747Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:35:29.356Z [31merror[39m: 	500 - undefined - params is not defined - /api/version - GET - ::1
+2022-10-10T18:35:35.669Z [32minfo[39m: 	welcome to GAPSI API
+2022-10-10T18:35:35.782Z [31merror[39m: 	404 || undefined - /favicon.ico - GET - ::1
+2022-10-10T18:35:35.783Z [31merror[39m: 	404 - undefined - Not Found - /favicon.ico - GET - ::1
+2022-10-10T18:35:38.720Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:38:20.838Z [32minfo[39m: 	welcome to GAPSI API
+2022-10-10T18:38:20.899Z [31merror[39m: 	404 || undefined - /favicon.ico - GET - ::1
+2022-10-10T18:38:20.900Z [31merror[39m: 	404 - undefined - Not Found - /favicon.ico - GET - ::1
+2022-10-10T18:38:24.852Z [32minfo[39m: 	welcome to GAPSI API
+2022-10-10T18:38:24.899Z [31merror[39m: 	404 || undefined - /favicon.ico - GET - ::1
+2022-10-10T18:38:24.899Z [31merror[39m: 	404 - undefined - Not Found - /favicon.ico - GET - ::1
+2022-10-10T18:38:38.903Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:38:42.813Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:39:29.717Z [32minfo[39m: 	welcome to GAPSI API
+2022-10-10T18:39:33.717Z [31merror[39m: 	500 - undefined - params is not defined - /api/version - GET - ::ffff:127.0.0.1
+2022-10-10T18:39:53.210Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:39:53.834Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:39:54.307Z [31merror[39m: 	500 - undefined - params is not defined - /api/version - GET - ::ffff:127.0.0.1
+2022-10-10T18:40:00.027Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::ffff:127.0.0.1
+2022-10-10T18:40:14.339Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:40:15.066Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:40:16.682Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::ffff:127.0.0.1
+2022-10-10T18:40:34.875Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:40:35.450Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:40:35.725Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::ffff:127.0.0.1
+2022-10-10T18:40:41.820Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::ffff:127.0.0.1
+2022-10-10T18:41:00.982Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:41:05.602Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:41:08.277Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:41:08.991Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::1
+2022-10-10T18:41:10.622Z [31merror[39m: 	500 - undefined - params is not defined - /api/version/ - GET - ::ffff:127.0.0.1
+2022-10-10T18:41:26.938Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:41:31.841Z [31merror[39m: 	404 || undefined - /favicon.ico - GET - ::1
+2022-10-10T18:41:31.842Z [31merror[39m: 	404 - undefined - Not Found - /favicon.ico - GET - ::1
+2022-10-10T18:44:13.238Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:48:49.403Z [31merror[39m: 	404 || undefined - /favicon.ico - GET - ::1
+2022-10-10T18:48:49.404Z [31merror[39m: 	404 - undefined - Not Found - /favicon.ico - GET - ::1
+2022-10-10T18:54:53.469Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:57:17.537Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:57:25.835Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:57:47.563Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:58:33.545Z [31merror[39m: 	404 || undefined - /api/message/ - GET - ::1
+2022-10-10T18:58:33.547Z [31merror[39m: 	404 - undefined - Not Found - /api/message/ - GET - ::1
+2022-10-10T18:58:42.119Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T18:59:14.626Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:33:35.837Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:33:36.662Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:34:04.768Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:34:14.628Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:35:11.753Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:35:19.729Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:35:49.901Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:38:23.614Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:38:37.513Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:40:17.752Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T20:43:35.908Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:13:43.217Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:15:03.182Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:15:27.427Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:16:03.856Z [31merror[39m: 	404 || undefined - /api/pro/ - GET - ::ffff:127.0.0.1
+2022-10-10T21:16:03.858Z [31merror[39m: 	404 - undefined - Not Found - /api/pro/ - GET - ::ffff:127.0.0.1
+2022-10-10T21:17:12.736Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:17:18.441Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:28:52.312Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:31:17.145Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:31:40.482Z [31merror[39m: 	500 - undefined - dbProviders.getProvidersByPagination is not a function - /api/providers/1/ - GET - ::ffff:127.0.0.1
+2022-10-10T21:32:01.052Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:32:37.054Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:38:55.897Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:39:09.172Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:42:24.782Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:43:03.113Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:43:11.107Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:43:59.647Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:44:27.501Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:44:31.140Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:44:38.626Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:45:06.930Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:45:37.305Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:48:56.455Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:49:18.554Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:49:35.891Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:51:00.123Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:51:41.365Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:53:11.983Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:54:47.224Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:55:32.456Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:56:49.086Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:56:50.284Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T21:58:33.237Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:00:21.078Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:03:18.683Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:05:05.454Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:06:51.865Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:07:18.186Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:07:43.620Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:12:37.414Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:12:56.573Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:13:11.038Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:13:41.386Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:13:48.808Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:18:19.584Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:22:20.548Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:24:29.545Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:24:55.443Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:24:57.928Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:25:25.298Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:25:35.963Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:25:49.112Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:25:55.124Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:26:08.323Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:26:47.394Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:27:13.556Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:27:16.782Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:27:36.863Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:27:39.982Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:27:57.423Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:28:05.441Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:28:50.036Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:28:51.729Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:28:59.348Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:29:01.754Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:29:53.202Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:29:58.212Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:30:09.160Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:31:18.972Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:31:26.611Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:34:08.872Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:34:12.094Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:39:58.607Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:40:17.361Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:41:20.629Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:52:37.881Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:52:40.503Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:54:36.800Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:56:52.460Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:57:32.728Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:57:45.283Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
+2022-10-10T22:58:06.720Z [32minfo[39m: 	Categoría API iniciando en el puerto: 8090
