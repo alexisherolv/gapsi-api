@@ -1,3 +1,4 @@
+const { response } = require("express");
 const fs = require("fs");
   
 //Reading JSON file
@@ -36,7 +37,7 @@ async function deleteProvider(params){
                 indice = i;
             }
         }
-        var response = {}
+        var response = {};
         providers.splice(indice, 1);
         fs.writeFileSync("bd.json", JSON.stringify(providers), err => {
             // Checking for errors
@@ -44,6 +45,7 @@ async function deleteProvider(params){
         });
 
         response = {
+            success: true,
             message: "Success"
         }
 
@@ -54,31 +56,39 @@ async function deleteProvider(params){
 }
 
 //Insert Provider
-async function insertProvider(params){
-
-    //Funcion incompleta por cuestiones de tiempo
+async function insertProvider(register){
     try{
-        var indice = 0;
-
-        for(var i=0; i<providers.length; i++)
+        var response = {};
+        const found = providers.find(element => element.name === register.name);
+        if(found !== undefined)
         {
-            if(providers[i].name === params)
-            {
-                indice = i;
+            response = {
+                success: false,
+                message: "El registro ya existe, valide."
+            }    
+            return response; 
+        }
+        else {
+            let provider = {
+                name: register.name,
+                razonSocial: register.razonSocial,
+                address: register.address
             }
-        }
-        var response = {}
-        providers.splice(indice, 1);
-        fs.writeFileSync("bd.json", JSON.stringify(providers), err => {
-            // Checking for errors
-            if (err) throw err; 
-        });
 
-        response = {
-            message: "Success"
-        }
+            providers.push(provider)
 
-        return response;
+            fs.writeFileSync("bd.json", JSON.stringify(providers), err => {
+                // Checking for errors
+                if (err) throw err; 
+            });
+    
+            response = {
+                success: true,
+                message: "Registro insertado con éxito."
+            }
+
+            return response;
+        }
     }catch(error){
         console.log(error)
     }
@@ -88,7 +98,7 @@ async function insertProvider(params){
 async function getPages(){
     try{
         var responsive = {
-            pages: Math.round(providers.length/3)
+            pages: Math.ceil(providers.length/3)
         }
         return responsive;
     }catch(error){

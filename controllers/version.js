@@ -1,5 +1,4 @@
 async function getVersion(){
-    console.log("si entre")
     try{
         //Se simula el llamado asíncrono a la base de datos
         var response = {

@@ -33,17 +33,12 @@ router.route('/delete/').put((request, response)=>{
     })
 })
 
-//Login
-/*router.route('/login').post((request, response)=>{
-    let userRegister = {...request.body}
-    logger.info(JSON.stringify({...request.body}) + "/login - POST -")
-    dbusers.iniciarSesion(userRegister, response).then(result => {
-        if(result.Code_Type === "Error")
-        {
-            response.status(401);
-        }
+//Insert Provider
+router.route('/insert/').post((request, response)=>{
+    let register = {...request.body}
+    dbProviders.insertProvider(register).then(result => {
         response.json(result);
     })
-})*/
+})
 
 module.exports = router;
